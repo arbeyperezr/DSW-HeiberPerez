@@ -1,0 +1,26 @@
+
+h1 {
+    color: #259074;
+}
+
+#menu{
+    background-color:#259074;
+}
+
+#contenido{
+    background-color:#e5fa9d;
+}
+
+#contenido>div {
+    background-color:#fff;
+}
+
+#aside{
+    background-color:#041122;
+
+}
+
+footer{
+    background-color:#041122;
+    color:#82db82;
+}
